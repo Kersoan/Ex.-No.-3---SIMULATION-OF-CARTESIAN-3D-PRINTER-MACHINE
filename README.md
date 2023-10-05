@@ -1,4 +1,4 @@
-# Ex. No.3 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
+# Ex-03--SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
 ### DATE: 
 
 ## AIM:
@@ -61,8 +61,8 @@
 ## Output:
 ![image](https://github.com/amrutha23ashok/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/120772913/ffd2f96f-447a-4534-af90-92aeaeb90d6d)
 
-### Name: V.A.JITHENDRA
-### Register Number:2122221230043
+### Name: KERSOAN P
+### Register Number:2122221230050
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
