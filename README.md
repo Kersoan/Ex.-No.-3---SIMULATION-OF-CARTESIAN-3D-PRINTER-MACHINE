@@ -1,63 +1,69 @@
-# Ex--01-SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
-
-## DATE: 
+# Ex. No.3 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
+### DATE: 
 
 ## AIM:
+### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
 
-###   To determine & simulate the displacement & velocity analysis for the given four bar chain mechanism. 
-
-###   In a four bar chain ABCD, AD is fixed and is 120 mm long. The crank AB is 30 mm long and rotates at 100 rpm clockwise, while the link CD = 60mm oscillates about D. BC and AD are of equal lengths. ∟BAD = 600.
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/03952954-387e-4fd3-a1a0-a8dd4b82ae07)
+![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/69572917-1257-45d7-bf57-ff48a6e5a711)
 
 ## REQUIREMENTS:
-###  ●	Mech Analyzer software.
-###  ●	Processor: Minimum 1.5 GHz
-###  ●	RAM: Minimum 512 MB
-###  ●	Operating System: Windows XP, Windows Vista, Windows 7, Windows 8 or higher.
-###  ●	Dependencies: Microsoft .Net 2.0 framework
-###  ●	Mini Drafter.
-###  ●	Geometry instruments.
-
-### Name: Kersoan P
-### Register Number: 212221230050
+### ●	System - Windows 7 or higher, 1 GB RAM.
 
 ## PROCEDURE:
-###   1. Draw a horizontal line AD of length 120 mm. 
-###   2. At A, Draw a line AB of length 30 mm at an angle of 600 
-###   3. With B as centre, BC = AD = 120mm draw an arc 
-###   4. With D as centre, CD = 60 mm draw another arc 
-###   5. Join BC and DC 
+### For X-Axis Assembly
+###   1.	Select X-Axis Assembly from the visible list.
+###   2.	All the parts related to X-Axis will be shown on the screen.
+###   3.	Select the parts in sequence in which they are shown.
+###   4.	When the first part is selected then it will open in the blank space in the left side of the screen.
+###   5.	Further, when the correct part will be selected then it will get assembled with the previously selected part/parts.
+###   6.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/a99fb530-e8df-49bf-9b2c-d537ff992534)
+## For Y-Axis Assembly
+###   1.	Select Y-Axis Assembly from the visible list.
+###   2.	All the parts related to Y-Axis will be shown on the screen.
+###   3.	Select the parts in sequence in which they are shown.
+###   4.	When the first part is selected then it will open in the blank space in the left side of the screen.
+###   5.	Further, when the correct part will be selected then it will get assembled with the previously selected part/parts.
+###   6.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
-###   This value of VBA is used to decide the scale for the velocity diagram 
-###   Let us construct the velocity diagram taking a scale: 
-###   0.3141 m/s = 60 mm (say) 
-###   1. The fixed link AD, appears as a point in the velocity diagram 
-###   2. From a, draw ab = 60mm, perpendicular to AB in configuration diagram and in the direction of velocity (downward direction) 
-###   3. From b, draw vector bc perpendicular to BC
-###   4. From (a,d), draw vector cd perpendicular to CD. This will intersect the previous vector at c.  
+## For Z-Axis Assembly
+###   1.	Select Z-Axis Assembly from the visible list.
+###   2.	All the parts related to Z-Axis will be shown on the screen.
+###   3.	Select the parts in sequence in which they are shown.
+###   4.	When the first part is selected then it will open in the blank space in the left side of the screen.
+###   5.	Further, when the correct part will be selected then it will get assembled with the previously selected part/parts.
+###   6.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/76094ae8-a8af-48f3-b2c4-472ab800cc8e)
+## For Complete-Axis Assembly
+###   1.	Select Complete-Axis Assembly from the visible list.
+###   2.	All the parts related to Complete-Axis will be shown on the screen.
+###   3.	Select the parts in sequence in which they are shown.
+###   4.	When the first part is selected then it will open in the blank space in the left side of the screen.
+###   5.	Further, when the correct part will be selected then it will get assembled with the previously selected part/parts.
+###   6.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/cb44fabe-6e16-4550-a2ec-4ee0f4cb6774)
+## Playing with Axes
+###   1.	Move the x-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the x-axis assembly.
+###   2.	Move the y-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the y-axis assembly.
+###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
-###   1. First measure cd from velocity diagram  
-###   2. Now, Calculate VCd using the scale of the diagram 
-###   3. Finally, calculate ωcd from the relation v = rω 
-###   Thus, link CD revolves with ωcd = 4 rad/s (clockwise about D) 
+## OUTPUT
+![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/3b394ffa-4aea-4e56-a12b-eccab47afee5)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/97627fa4-0d38-412c-8745-082bd7b85299)
+![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/cf47ce68-c7b4-4cbc-b57f-ccd68b7bcbb7)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/15f7e50d-486d-46d0-bed0-8f51b36e7396)
+![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/803397cb-5685-4bc2-82c2-6b1d1e3a2eec)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/b01469ff-cb80-4ca6-a6ef-ae521ee9b717)
+![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/45ac4da8-f236-4e23-b0ce-a77aac6ac8b0)
 
+![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
 
-![1](https://github.com/Aakash0407/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/118799103/e29f0c65-4482-4373-a785-2378ca59c527)
+![3](https://github.com/Aakash0407/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118799103/5402f5e2-4196-4933-bcc2-7d547b93b36f)
 
-## RESULT:
- ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
+### Name: BEJIN B
+### Register Number: 212222230021
+
+## Result: 
+### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
