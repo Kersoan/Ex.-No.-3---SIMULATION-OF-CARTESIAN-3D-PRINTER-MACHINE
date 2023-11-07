@@ -5,8 +5,8 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/69572917-1257-45d7-bf57-ff48a6e5a711)
 ```
-### Name: Kersoan P
-### Register Number: 21222123050
+Name: Kersoan P
+Register Number: 21222123050
 ```
 ## REQUIREMENTS:
 ### ●	System - Windows 7 or higher, 1 GB RAM.
